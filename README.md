@@ -46,6 +46,4 @@ IE if you have 4 cores each core is worth 256 `( 1024 / 4 )` and so to use 3 thr
 # docker run -c 756 bitnn/alpine-xmrig ... -t 3
 ```
 
-# Donations & Contact
-XMR: `45CJVagd6WwQAQfAkS91EHiTyfVaJn12uM4Su8iz6S2SHZ3QthmFM9BSPHVZY388ASWx8G9Wbz4BA24RQZUpGczb35fnnJz`
-Bitmessage: `BM-2cTMMrCkaG2m4r9ZYx7dAqRLY7zZN2nwUe`
+
